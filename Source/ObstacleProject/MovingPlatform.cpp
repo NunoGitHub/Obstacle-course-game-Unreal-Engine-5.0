@@ -18,8 +18,11 @@ void AMovingPlatform::BeginPlay()
 
 	//acess variables that we created in yhe header file
 	MyInt = 9;
-	 
-	
+
+	APlusB = InputA + InputB;
+
+	// testing float
+	float1float2 = float1 + float2;
 }
 
 // Called every frame

@@ -1432,3 +1432,449 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.02.09-10.47.05:170][325]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
 [2024.02.09-10.47.05:179][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
 [2024.02.09-10.47.05:222][327]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2024.02.09-10.49.35:234][831]LogDerivedDataCache: C:/Users/nunoa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.832 and deleted 0 file(s) with total size 0 MiB.
+[2024.02.09-10.52.37:096][485]LogViewport: Scene viewport resized to 1150x742, mode Windowed.
+[2024.02.09-10.52.37:122][486]LogViewport: Scene viewport resized to 1150x720, mode Windowed.
+[2024.02.09-10.52.37:167][487]LogViewport: Scene viewport resized to 1150x647, mode Windowed.
+[2024.02.09-10.52.37:202][488]LogViewport: Scene viewport resized to 1150x586, mode Windowed.
+[2024.02.09-10.52.37:235][489]LogViewport: Scene viewport resized to 1150x527, mode Windowed.
+[2024.02.09-10.52.37:271][490]LogViewport: Scene viewport resized to 1150x482, mode Windowed.
+[2024.02.09-10.52.37:306][491]LogViewport: Scene viewport resized to 1150x442, mode Windowed.
+[2024.02.09-10.52.37:342][492]LogViewport: Scene viewport resized to 1150x405, mode Windowed.
+[2024.02.09-10.52.37:376][493]LogViewport: Scene viewport resized to 1150x377, mode Windowed.
+[2024.02.09-10.52.37:409][494]LogViewport: Scene viewport resized to 1150x356, mode Windowed.
+[2024.02.09-10.52.37:440][495]LogViewport: Scene viewport resized to 1150x347, mode Windowed.
+[2024.02.09-10.52.37:472][496]LogViewport: Scene viewport resized to 1150x346, mode Windowed.
+[2024.02.09-11.12.54:580][558]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.13.05:404][837]LogLiveCoding: Display:    Creating library D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_8.lib and object D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_8.exp
+[2024.02.09-11.13.05:473][837]LogClass: /Script/ObstacleProject Reload.
+[2024.02.09-11.13.05:473][837]LogClass: MovingPlatform Reload.
+[2024.02.09-11.13.05:473][837]LogClass: Could not find existing class MovingPlatform in package /Script/ObstacleProject for reload, assuming new or modified class
+[2024.02.09-11.13.05:484][837]Re-instancing MovingPlatform after reload.
+[2024.02.09-11.13.05:527][837]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.02.09-11.13.05:761][838]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2024.02.09-11.13.05:761][838]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.02.09-11.13.30:649][268]LogViewport: Scene viewport resized to 1150x349, mode Windowed.
+[2024.02.09-11.13.30:676][269]LogViewport: Scene viewport resized to 1150x359, mode Windowed.
+[2024.02.09-11.13.30:719][270]LogViewport: Scene viewport resized to 1150x379, mode Windowed.
+[2024.02.09-11.13.30:755][271]LogViewport: Scene viewport resized to 1150x397, mode Windowed.
+[2024.02.09-11.13.30:793][272]LogViewport: Scene viewport resized to 1150x418, mode Windowed.
+[2024.02.09-11.13.30:830][273]LogViewport: Scene viewport resized to 1150x439, mode Windowed.
+[2024.02.09-11.13.30:865][274]LogViewport: Scene viewport resized to 1150x461, mode Windowed.
+[2024.02.09-11.13.30:901][275]LogViewport: Scene viewport resized to 1150x479, mode Windowed.
+[2024.02.09-11.13.30:935][276]LogViewport: Scene viewport resized to 1150x494, mode Windowed.
+[2024.02.09-11.13.30:972][277]LogViewport: Scene viewport resized to 1150x510, mode Windowed.
+[2024.02.09-11.13.31:016][278]LogViewport: Scene viewport resized to 1150x534, mode Windowed.
+[2024.02.09-11.13.31:050][279]LogViewport: Scene viewport resized to 1150x548, mode Windowed.
+[2024.02.09-11.13.31:090][280]LogViewport: Scene viewport resized to 1150x560, mode Windowed.
+[2024.02.09-11.13.31:126][281]LogViewport: Scene viewport resized to 1150x570, mode Windowed.
+[2024.02.09-11.13.31:159][282]LogViewport: Scene viewport resized to 1150x579, mode Windowed.
+[2024.02.09-11.13.31:206][283]LogViewport: Scene viewport resized to 1150x589, mode Windowed.
+[2024.02.09-11.13.31:252][284]LogViewport: Scene viewport resized to 1150x597, mode Windowed.
+[2024.02.09-11.13.31:292][285]LogViewport: Scene viewport resized to 1150x607, mode Windowed.
+[2024.02.09-11.13.31:328][286]LogViewport: Scene viewport resized to 1150x613, mode Windowed.
+[2024.02.09-11.13.31:365][287]LogViewport: Scene viewport resized to 1150x622, mode Windowed.
+[2024.02.09-11.13.31:403][288]LogViewport: Scene viewport resized to 1150x630, mode Windowed.
+[2024.02.09-11.13.31:435][289]LogViewport: Scene viewport resized to 1150x638, mode Windowed.
+[2024.02.09-11.13.31:468][290]LogViewport: Scene viewport resized to 1150x643, mode Windowed.
+[2024.02.09-11.13.31:502][291]LogViewport: Scene viewport resized to 1150x648, mode Windowed.
+[2024.02.09-11.13.31:536][292]LogViewport: Scene viewport resized to 1150x650, mode Windowed.
+[2024.02.09-11.13.31:569][293]LogViewport: Scene viewport resized to 1150x654, mode Windowed.
+[2024.02.09-11.13.31:603][294]LogViewport: Scene viewport resized to 1150x655, mode Windowed.
+[2024.02.09-11.13.31:645][295]LogViewport: Scene viewport resized to 1150x657, mode Windowed.
+[2024.02.09-11.13.31:677][296]LogViewport: Scene viewport resized to 1150x658, mode Windowed.
+[2024.02.09-11.13.46:161][729]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.02.09-11.13.46:186][730]LogViewport: Scene viewport resized to 453x259, mode Windowed.
+[2024.02.09-11.13.49:530][ 47]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.02.09-11.13.49:542][ 48]LogViewport: Scene viewport resized to 453x259, mode Windowed.
+[2024.02.09-11.15.48:254][199]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.16.08:158][692]LogLiveCoding: Display:    Creating library D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_9.lib and object D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_9.exp
+[2024.02.09-11.16.08:301][694]LogClass: /Script/ObstacleProject Reload.
+[2024.02.09-11.16.08:301][694]LogClass: MovingPlatform Reload.
+[2024.02.09-11.16.08:301][694]LogClass: Could not find existing class MovingPlatform in package /Script/ObstacleProject for reload, assuming new or modified class
+[2024.02.09-11.16.08:311][694]Re-instancing MovingPlatform after reload.
+[2024.02.09-11.16.08:357][694]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.02.09-11.16.08:405][695]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2024.02.09-11.16.08:405][695]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.02.09-11.16.29:968][199]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.09-11.16.29:975][199]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.09-11.16.29:975][199]PIE: New page: PIE session: ProjectObstacle (Feb 9, 2024, 11:16:29 AM)
+[2024.02.09-11.16.29:975][199]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProjectObstacle
+[2024.02.09-11.16.30:005][199]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030000s)
+[2024.02.09-11.16.30:005][199]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectObstacle.ProjectObstacle to /Game/UEDPIE_0_ProjectObstacle.ProjectObstacle (0.030090s)
+[2024.02.09-11.16.30:005][199]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.02.09-11.16.30:005][199]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.09-11.16.30:005][199]LogAIModule: Creating AISystem for world ProjectObstacle
+[2024.02.09-11.16.30:006][199]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2024.02.09-11.16.30:013][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.02.09-11.16.30:014][199]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.02.09-11.16.30:014][199]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.09-11.16.30:014][199]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.09-11.16.30:014][199]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.09-11.16.30:014][199]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.09-11.16.30:014][199]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.09-11.16.30:014][199]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.09-11.16.30:014][199]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.09-11.16.30:014][199]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.09-11.16.30:015][199]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.09-11.16.30:015][199]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.09-11.16.30:015][199]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.09-11.16.30:061][199]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.09-11.16.30:084][199]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.02.09-11.16.30:084][199]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.09-11.16.30:084][199]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.09-11.16.30:084][199]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.09-11.16.30:085][199]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.02.09-11.16.30:085][199]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.02.09-11.16.30:086][199]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.02.09-11.16.30:086][199]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.02.09-11.16.30:086][199]LogInit: FAudioDevice initialized.
+[2024.02.09-11.16.30:086][199]LogAudio: Display: Audio Device (ID: 12) registered with world 'ProjectObstacle'.
+[2024.02.09-11.16.30:098][199]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.09-11.16.30:108][199]LogWorld: Bringing World /Game/UEDPIE_0_ProjectObstacle.ProjectObstacle up for play (max tick rate 0) at 2024.02.09-11.16.30
+[2024.02.09-11.16.31:664][199]LogWorld: Bringing up level for play took: 1.566351
+[2024.02.09-11.16.31:666][199]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.02.09-11.16.31:670][199]PIE: Server logged in
+[2024.02.09-11.16.31:670][199]PIE: Play in editor total start time 1.697 seconds.
+[2024.02.09-11.16.38:642][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-11.16.38:642][844]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ProjectObstacle
+[2024.02.09-11.16.38:643][844]LogWorld: UWorld::CleanupWorld for ProjectObstacle, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-11.16.38:644][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-11.16.38:654][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.09-11.16.38:657][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-11.16.38:663][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-11.16.38:665][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.02.09-11.16.38:666][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.02.09-11.16.38:674][844]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.02.09-11.16.38:713][846]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.02.09-11.24.45:242][775]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.24.53:063][419]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-11.24.53:063][419]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.02.09-11.25.10:482][940]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.25.12:480][946]LogLiveCoding: Display:    Creating library D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_10.lib and object D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_10.exp
+[2024.02.09-11.25.12:552][946]LogClass: /Script/ObstacleProject Reload.
+[2024.02.09-11.25.12:552][946]LogClass: MovingPlatform Reload.
+[2024.02.09-11.25.12:552][946]LogClass: Could not find existing class MovingPlatform in package /Script/ObstacleProject for reload, assuming new or modified class
+[2024.02.09-11.25.12:564][946]Re-instancing MovingPlatform after reload.
+[2024.02.09-11.25.12:600][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.02.09-11.25.12:824][947]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2024.02.09-11.25.12:824][947]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.02.09-11.26.43:865][654]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.26.46:680][780]LogLiveCoding: Display:    Creating library D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_11.lib and object D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_11.exp
+[2024.02.09-11.26.46:774][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.02.09-11.26.47:017][781]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-11.26.47:017][781]LogLiveCoding: Display: Live coding succeeded
+[2024.02.09-11.27.26:999][563]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.27.28:915][671]LogLiveCoding: Display:    Creating library D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_12.lib and object D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_12.exp
+[2024.02.09-11.27.29:046][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.02.09-11.27.29:070][673]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-11.27.29:070][673]LogLiveCoding: Display: Live coding succeeded
+[2024.02.09-11.27.34:197][910]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.09-11.27.34:202][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.09-11.27.34:202][910]PIE: New page: PIE session: ProjectObstacle (Feb 9, 2024, 11:27:34 AM)
+[2024.02.09-11.27.34:203][910]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProjectObstacle
+[2024.02.09-11.27.34:224][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021466s)
+[2024.02.09-11.27.34:224][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectObstacle.ProjectObstacle to /Game/UEDPIE_0_ProjectObstacle.ProjectObstacle (0.021549s)
+[2024.02.09-11.27.34:224][910]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.02.09-11.27.34:225][910]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.09-11.27.34:225][910]LogAIModule: Creating AISystem for world ProjectObstacle
+[2024.02.09-11.27.34:225][910]LogPlayLevel: PIE: World Init took: (0.000795s)
+[2024.02.09-11.27.34:231][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.02.09-11.27.34:232][910]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.02.09-11.27.34:232][910]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.09-11.27.34:232][910]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.09-11.27.34:232][910]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.09-11.27.34:232][910]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.09-11.27.34:232][910]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.09-11.27.34:232][910]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.09-11.27.34:233][910]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.09-11.27.34:233][910]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.09-11.27.34:233][910]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.09-11.27.34:233][910]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.09-11.27.34:233][910]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.09-11.27.34:235][910]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.09-11.27.34:257][910]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.02.09-11.27.34:258][910]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.09-11.27.34:258][910]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.09-11.27.34:258][910]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.09-11.27.34:258][910]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.02.09-11.27.34:258][910]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.02.09-11.27.34:260][910]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.02.09-11.27.34:260][910]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.02.09-11.27.34:260][910]LogInit: FAudioDevice initialized.
+[2024.02.09-11.27.34:260][910]LogAudio: Display: Audio Device (ID: 13) registered with world 'ProjectObstacle'.
+[2024.02.09-11.27.34:274][910]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.09-11.27.34:285][910]LogWorld: Bringing World /Game/UEDPIE_0_ProjectObstacle.ProjectObstacle up for play (max tick rate 0) at 2024.02.09-11.27.34
+[2024.02.09-11.27.35:830][910]LogWorld: Bringing up level for play took: 1.555287
+[2024.02.09-11.27.35:832][910]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.02.09-11.27.35:833][910]PIE: Server logged in
+[2024.02.09-11.27.35:834][910]PIE: Play in editor total start time 1.632 seconds.
+[2024.02.09-11.27.39:828][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-11.27.39:828][287]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ProjectObstacle
+[2024.02.09-11.27.39:829][287]LogWorld: UWorld::CleanupWorld for ProjectObstacle, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-11.27.39:830][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-11.27.39:845][287]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.09-11.27.39:848][287]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-11.27.39:854][287]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.09-11.27.39:854][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.02.09-11.27.39:856][287]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.02.09-11.27.39:860][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-11.27.39:865][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.02.09-11.27.39:904][289]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.02.09-11.27.56:759][111]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.28.02:266][401]LogLiveCoding: Display:    Creating library D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_13.lib and object D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_13.exp
+[2024.02.09-11.28.02:390][403]Re-instancing MovingPlatform after reload.
+[2024.02.09-11.28.02:468][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.02.09-11.28.02:513][404]Display: Reload/Re-instancing Complete: 1 class unchanged
+[2024.02.09-11.28.02:513][404]LogLiveCoding: Display: Live coding succeeded
+[2024.02.09-11.30.23:215][251]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.30.28:304][548]LogLiveCoding: Display:    Creating library D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_14.lib and object D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_14.exp
+[2024.02.09-11.30.28:477][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.02.09-11.30.28:506][551]Display: Reload/Re-instancing Complete: 1 class unchanged
+[2024.02.09-11.30.28:506][551]LogLiveCoding: Display: Live coding succeeded
+[2024.02.09-11.30.46:628][ 35]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.30.49:122][192]LogLiveCoding: Display:    Creating library D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_15.lib and object D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_15.exp
+[2024.02.09-11.30.49:236][194]Re-instancing MovingPlatform after reload.
+[2024.02.09-11.30.49:299][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.02.09-11.30.49:339][195]Display: Reload/Re-instancing Complete: 1 class unchanged
+[2024.02.09-11.30.49:340][195]LogLiveCoding: Display: Live coding succeeded
+[2024.02.09-11.30.59:313][454]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.31.01:516][589]LogLiveCoding: Display:    Creating library D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_16.lib and object D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_16.exp
+[2024.02.09-11.31.01:633][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.02.09-11.31.01:656][591]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-11.31.01:656][591]LogLiveCoding: Display: Live coding succeeded
+[2024.02.09-11.31.17:564][198]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.31.19:460][311]LogLiveCoding: Display:    Creating library D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_17.lib and object D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_17.exp
+[2024.02.09-11.31.19:612][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.02.09-11.31.19:637][314]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-11.31.19:637][314]LogLiveCoding: Display: Live coding succeeded
+[2024.02.09-11.40.06:990][140]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.40.17:906][136]LogLiveCoding: Display:    Creating library D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_18.lib and object D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_18.exp
+[2024.02.09-11.40.18:040][139]Re-instancing MovingPlatform after reload.
+[2024.02.09-11.40.18:113][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.02.09-11.40.18:171][140]Display: Reload/Re-instancing Complete: 1 class unchanged
+[2024.02.09-11.40.18:171][140]LogLiveCoding: Display: Live coding succeeded
+[2024.02.09-11.42.05:318][505]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.42.09:514][576]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-11.42.09:514][576]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.02.09-11.43.16:715][949]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.43.23:178][420]LogLiveCoding: Display:    Creating library D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_19.lib and object D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_19.exp
+[2024.02.09-11.43.23:378][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.02.09-11.43.23:405][424]Display: Reload/Re-instancing Complete: 1 class unchanged
+[2024.02.09-11.43.23:406][424]LogLiveCoding: Display: Live coding succeeded
+[2024.02.09-11.44.28:336][532]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.44.34:913][999]LogLiveCoding: Display:    Creating library D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_20.lib and object D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_20.exp
+[2024.02.09-11.44.35:027][  1]LogClass: /Script/ObstacleProject Reload.
+[2024.02.09-11.44.35:027][  1]LogClass: MovingPlatform Reload.
+[2024.02.09-11.44.35:027][  1]LogClass: Could not find existing class MovingPlatform in package /Script/ObstacleProject for reload, assuming new or modified class
+[2024.02.09-11.44.35:038][  1]Re-instancing MovingPlatform after reload.
+[2024.02.09-11.44.35:085][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.02.09-11.44.35:124][  2]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2024.02.09-11.44.35:124][  2]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.02.09-11.46.01:340][757]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.46.05:372][ 56]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-11.46.05:372][ 56]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.02.09-11.48.41:528][743]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.48.51:340][  9]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-11.48.51:340][  9]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.02.09-11.49.07:548][142]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.49.11:872][460]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-11.49.11:872][460]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.02.09-11.49.35:354][530]LogDerivedDataCache: C:/Users/nunoa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.914 and deleted 0 file(s) with total size 0 MiB.
+[2024.02.09-11.49.41:945][578]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.49.46:474][986]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-11.49.46:474][986]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.02.09-11.51.21:626][474]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.51.25:906][880]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-11.51.25:906][880]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.02.09-11.51.53:654][138]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.51.56:659][147]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-11.51.56:659][147]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.02.09-11.52.15:438][267]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.52.20:260][637]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-11.52.20:260][637]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.02.09-11.53.10:228][823]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.53.14:283][898]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-11.53.14:283][898]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.02.09-11.54.19:561][152]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.54.20:772][233]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-11.54.20:772][233]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.02.09-11.54.46:886][598]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.54.47:988][664]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-11.54.47:988][664]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.02.09-11.55.18:740][ 65]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-11.55.20:021][154]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-11.55.20:021][154]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.02.09-12.00.40:902][644]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-12.00.45:522][ 17]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-12.00.45:522][ 17]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.02.09-12.01.54:899][534]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-12.05.01:993][298]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-12.05.01:993][298]LogLiveCoding: Error: Live coding canceled
+[2024.02.09-12.05.49:313][480]LogViewport: Scene viewport resized to 1150x660, mode Windowed.
+[2024.02.09-12.05.49:344][481]LogViewport: Scene viewport resized to 1150x657, mode Windowed.
+[2024.02.09-12.05.49:385][482]LogViewport: Scene viewport resized to 1150x626, mode Windowed.
+[2024.02.09-12.05.49:416][483]LogViewport: Scene viewport resized to 1150x595, mode Windowed.
+[2024.02.09-12.05.49:454][484]LogViewport: Scene viewport resized to 1150x561, mode Windowed.
+[2024.02.09-12.05.49:488][485]LogViewport: Scene viewport resized to 1150x540, mode Windowed.
+[2024.02.09-12.05.49:525][486]LogViewport: Scene viewport resized to 1150x521, mode Windowed.
+[2024.02.09-12.05.49:560][487]LogViewport: Scene viewport resized to 1150x500, mode Windowed.
+[2024.02.09-12.05.49:594][488]LogViewport: Scene viewport resized to 1150x483, mode Windowed.
+[2024.02.09-12.05.49:634][489]LogViewport: Scene viewport resized to 1150x467, mode Windowed.
+[2024.02.09-12.05.49:668][490]LogViewport: Scene viewport resized to 1150x455, mode Windowed.
+[2024.02.09-12.05.49:702][491]LogViewport: Scene viewport resized to 1150x451, mode Windowed.
+[2024.02.09-12.05.49:735][492]LogViewport: Scene viewport resized to 1150x449, mode Windowed.
+[2024.02.09-12.06.16:597][849]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-12.06.28:382][581]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-12.06.28:382][581]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.02.09-12.07.23:413][854]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-12.07.27:732][256]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-12.07.27:732][256]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.02.09-12.08.58:607][818]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-12.09.03:344][203]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-12.09.03:344][203]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.02.09-12.11.05:953][863]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-12.11.10:414][218]Display: Reload/Re-instancing Complete: No object changes detected
+[2024.02.09-12.11.10:414][218]LogLiveCoding: Error: Live coding failed, please see Live console for more information
+[2024.02.09-12.15.04:388][ 95]LogLiveCoding: Display: Starting Live Coding compile.
+[2024.02.09-12.15.20:218][434]LogLiveCoding: Display:    Creating library D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_21.lib and object D:\UnrealEngine\ObstacleProject\Binaries\Win64\UnrealEditor-ObstacleProject.patch_21.exp
+[2024.02.09-12.15.20:336][436]LogClass: /Script/ObstacleProject Reload.
+[2024.02.09-12.15.20:336][436]LogClass: MovingPlatform Reload.
+[2024.02.09-12.15.20:336][436]LogClass: Could not find existing class MovingPlatform in package /Script/ObstacleProject for reload, assuming new or modified class
+[2024.02.09-12.15.20:346][436]Re-instancing MovingPlatform after reload.
+[2024.02.09-12.15.20:388][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.02.09-12.15.20:426][437]Display: Reload/Re-instancing Complete: 1 package changed, 1 class changed
+[2024.02.09-12.15.20:426][437]LogLiveCoding: Warning: Live coding succeeded, data type changes may cause packaging to fail if assets reference the new or updated data types
+[2024.02.09-12.15.24:657][701]LogViewport: Scene viewport resized to 1150x448, mode Windowed.
+[2024.02.09-12.15.24:678][702]LogViewport: Scene viewport resized to 1150x450, mode Windowed.
+[2024.02.09-12.15.24:725][703]LogViewport: Scene viewport resized to 1150x459, mode Windowed.
+[2024.02.09-12.15.24:764][704]LogViewport: Scene viewport resized to 1150x467, mode Windowed.
+[2024.02.09-12.15.24:803][705]LogViewport: Scene viewport resized to 1150x474, mode Windowed.
+[2024.02.09-12.15.24:841][706]LogViewport: Scene viewport resized to 1150x485, mode Windowed.
+[2024.02.09-12.15.24:878][707]LogViewport: Scene viewport resized to 1150x497, mode Windowed.
+[2024.02.09-12.15.24:915][708]LogViewport: Scene viewport resized to 1150x510, mode Windowed.
+[2024.02.09-12.15.24:961][709]LogViewport: Scene viewport resized to 1150x530, mode Windowed.
+[2024.02.09-12.15.24:997][710]LogViewport: Scene viewport resized to 1150x548, mode Windowed.
+[2024.02.09-12.15.25:042][711]LogViewport: Scene viewport resized to 1150x579, mode Windowed.
+[2024.02.09-12.15.25:082][712]LogViewport: Scene viewport resized to 1150x603, mode Windowed.
+[2024.02.09-12.15.25:125][713]LogViewport: Scene viewport resized to 1150x618, mode Windowed.
+[2024.02.09-12.15.25:161][714]LogViewport: Scene viewport resized to 1150x625, mode Windowed.
+[2024.02.09-12.15.25:203][715]LogViewport: Scene viewport resized to 1150x638, mode Windowed.
+[2024.02.09-12.15.25:239][716]LogViewport: Scene viewport resized to 1150x650, mode Windowed.
+[2024.02.09-12.15.25:276][717]LogViewport: Scene viewport resized to 1150x663, mode Windowed.
+[2024.02.09-12.15.25:316][718]LogViewport: Scene viewport resized to 1150x669, mode Windowed.
+[2024.02.09-12.15.25:355][719]LogViewport: Scene viewport resized to 1150x672, mode Windowed.
+[2024.02.09-12.15.25:417][722]LogViewport: Scene viewport resized to 1150x673, mode Windowed.
+[2024.02.09-12.15.25:625][743]LogViewport: Scene viewport resized to 1150x674, mode Windowed.
+[2024.02.09-12.15.25:652][744]LogViewport: Scene viewport resized to 1150x675, mode Windowed.
+[2024.02.09-12.15.25:725][745]LogViewport: Scene viewport resized to 1150x677, mode Windowed.
+[2024.02.09-12.15.31:924][309]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.09-12.15.31:932][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.09-12.15.31:932][309]PIE: New page: PIE session: ProjectObstacle (Feb 9, 2024, 12:15:31 PM)
+[2024.02.09-12.15.31:932][309]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProjectObstacle
+[2024.02.09-12.15.31:961][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027884s)
+[2024.02.09-12.15.31:961][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectObstacle.ProjectObstacle to /Game/UEDPIE_0_ProjectObstacle.ProjectObstacle (0.028014s)
+[2024.02.09-12.15.31:961][309]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.02.09-12.15.31:961][309]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.09-12.15.31:961][309]LogAIModule: Creating AISystem for world ProjectObstacle
+[2024.02.09-12.15.31:962][309]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2024.02.09-12.15.31:966][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.02.09-12.15.31:970][309]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.02.09-12.15.31:970][309]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.09-12.15.31:970][309]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.09-12.15.31:970][309]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.09-12.15.31:970][309]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.09-12.15.31:970][309]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.09-12.15.31:970][309]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.09-12.15.31:970][309]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.09-12.15.31:970][309]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.09-12.15.31:970][309]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.09-12.15.31:970][309]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.09-12.15.31:970][309]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.09-12.15.31:972][309]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.09-12.15.31:995][309]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.02.09-12.15.31:998][309]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.09-12.15.31:998][309]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.09-12.15.31:998][309]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.09-12.15.31:999][309]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.02.09-12.15.31:999][309]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.02.09-12.15.32:001][309]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.02.09-12.15.32:001][309]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.02.09-12.15.32:001][309]LogInit: FAudioDevice initialized.
+[2024.02.09-12.15.32:001][309]LogAudio: Display: Audio Device (ID: 14) registered with world 'ProjectObstacle'.
+[2024.02.09-12.15.32:019][309]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.09-12.15.32:034][309]LogWorld: Bringing World /Game/UEDPIE_0_ProjectObstacle.ProjectObstacle up for play (max tick rate 0) at 2024.02.09-12.15.32
+[2024.02.09-12.15.33:531][309]LogWorld: Bringing up level for play took: 1.511534
+[2024.02.09-12.15.33:533][309]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.02.09-12.15.33:535][309]PIE: Server logged in
+[2024.02.09-12.15.33:536][309]PIE: Play in editor total start time 1.605 seconds.
+[2024.02.09-12.15.42:099][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-12.15.42:099][ 74]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ProjectObstacle
+[2024.02.09-12.15.42:101][ 74]LogWorld: UWorld::CleanupWorld for ProjectObstacle, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-12.15.42:102][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-12.15.42:113][ 74]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.09-12.15.42:115][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-12.15.42:122][ 74]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.09-12.15.42:123][ 74]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.02.09-12.15.42:124][ 74]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.02.09-12.15.42:128][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-12.15.42:131][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.02.09-12.15.42:173][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.02.09-12.15.44:860][294]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.09-12.15.44:865][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.09-12.15.44:866][294]PIE: New page: PIE session: ProjectObstacle (Feb 9, 2024, 12:15:44 PM)
+[2024.02.09-12.15.44:866][294]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProjectObstacle
+[2024.02.09-12.15.44:887][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021900s)
+[2024.02.09-12.15.44:887][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProjectObstacle.ProjectObstacle to /Game/UEDPIE_0_ProjectObstacle.ProjectObstacle (0.022023s)
+[2024.02.09-12.15.44:888][294]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.02.09-12.15.44:888][294]LogChaos: FPhysicsSolverBase::AsyncDt:0.016667
+[2024.02.09-12.15.44:888][294]LogAIModule: Creating AISystem for world ProjectObstacle
+[2024.02.09-12.15.44:888][294]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2024.02.09-12.15.44:895][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.02.09-12.15.44:898][294]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.02.09-12.15.44:898][294]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.09-12.15.44:898][294]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.09-12.15.44:898][294]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.09-12.15.44:898][294]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.09-12.15.44:898][294]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.09-12.15.44:898][294]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.09-12.15.44:898][294]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.09-12.15.44:898][294]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.09-12.15.44:898][294]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.09-12.15.44:898][294]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.09-12.15.44:898][294]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.09-12.15.44:900][294]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.09-12.15.44:921][294]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2024.02.09-12.15.44:921][294]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.09-12.15.44:921][294]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.09-12.15.44:921][294]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.09-12.15.44:922][294]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.02.09-12.15.44:922][294]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.02.09-12.15.44:923][294]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.02.09-12.15.44:923][294]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.02.09-12.15.44:923][294]LogInit: FAudioDevice initialized.
+[2024.02.09-12.15.44:923][294]LogAudio: Display: Audio Device (ID: 15) registered with world 'ProjectObstacle'.
+[2024.02.09-12.15.44:937][294]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2024.02.09-12.15.44:949][294]LogWorld: Bringing World /Game/UEDPIE_0_ProjectObstacle.ProjectObstacle up for play (max tick rate 0) at 2024.02.09-12.15.44
+[2024.02.09-12.15.46:441][294]LogWorld: Bringing up level for play took: 1.502687
+[2024.02.09-12.15.46:443][294]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.02.09-12.15.46:445][294]PIE: Server logged in
+[2024.02.09-12.15.46:445][294]PIE: Play in editor total start time 1.58 seconds.
+[2024.02.09-12.15.51:220][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-12.15.51:220][764]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ProjectObstacle
+[2024.02.09-12.15.51:221][764]LogWorld: UWorld::CleanupWorld for ProjectObstacle, bSessionEnded=true, bCleanupResources=true
+[2024.02.09-12.15.51:222][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-12.15.51:233][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.09-12.15.51:236][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.09-12.15.51:242][764]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.09-12.15.51:242][764]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.02.09-12.15.51:244][764]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.02.09-12.15.51:248][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.09-12.15.51:251][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.02.09-12.15.51:292][766]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.02.09-12.16.24:458][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.02.09-12.16.24:463][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectObstacle" FILE="../../../../UnrealEngine/ObstacleProject/Saved/Autosaves/Game/ProjectObstacle_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.02.09-12.16.24:550][952]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ProjectObstacle_Auto3
+[2024.02.09-12.16.24:550][952]LogSavePackage: Moving '../../../../UnrealEngine/ObstacleProject/Saved/ProjectObstacle_Auto34167BD00403E50843381D29F4578FB9D.tmp' to '../../../../UnrealEngine/ObstacleProject/Saved/Autosaves/Game/ProjectObstacle_Auto3.umap'
+[2024.02.09-12.16.24:563][952]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ProjectObstacle' took 0.112
+[2024.02.09-12.16.24:564][952]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.112

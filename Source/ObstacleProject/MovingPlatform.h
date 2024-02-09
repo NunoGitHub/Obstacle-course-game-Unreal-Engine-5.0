@@ -10,8 +10,8 @@ UCLASS()
 class OBSTACLEPROJECT_API AMovingPlatform : public AActor
 {
 	GENERATED_BODY()
-	
-public:	
+
+public:
 	// Sets default values for this actor's properties
 	AMovingPlatform();
 
@@ -19,7 +19,7 @@ protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
-public:	
+public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
@@ -49,4 +49,22 @@ public:
 
 	UPROPERTY(EditAnywhere)
 	float float1float2 = 0;
+
+	//
+
+	UPROPERTY(EditAnywhere)
+	FVector MyVector = FVector(1, 2, 3);
+
+	UPROPERTY(EditAnywhere)
+	float MyX = 0;
+
+	UPROPERTY(EditAnywhere)
+	FVector Vector2 = FVector(1, 2, 3);
+
+	UPROPERTY(EditAnywhere)
+	float newAux=0;
+
+	void ChangePos();
 };
+
+

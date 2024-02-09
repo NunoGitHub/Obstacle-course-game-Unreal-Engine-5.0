@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "name": "ObstacleProjectEditor Editor Win64 Development (ObstacleProject)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\UnrealEngine\\ObstacleProject\\.vscode\\compileCommands_ObstacleProject.json"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "D:\\UnrealEngine\\ObstacleProject\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}

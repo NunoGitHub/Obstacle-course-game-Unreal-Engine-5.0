@@ -1,0 +1,27 @@
+[
+	{
+		"file": "D:\\UnrealEngine\\ObstacleProject\\Source\\ObstacleProject\\MovingPlatform.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealEngine\\ObstacleProject\\.vscode\\compileCommands_Default\\ObstacleProject.205.rsp",
+		"directory": "D:\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngine\\ObstacleProject\\Source\\ObstacleProject\\MovingPlatform.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealEngine\\ObstacleProject\\.vscode\\compileCommands_Default\\ObstacleProject.205.rsp",
+		"directory": "D:\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngine\\ObstacleProject\\Source\\ObstacleProject\\ObstacleProject.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealEngine\\ObstacleProject\\.vscode\\compileCommands_Default\\ObstacleProject.205.rsp",
+		"directory": "D:\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngine\\ObstacleProject\\Source\\ObstacleProject\\ObstacleProject.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealEngine\\ObstacleProject\\.vscode\\compileCommands_Default\\ObstacleProject.205.rsp",
+		"directory": "D:\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UnrealEngine\\ObstacleProject\\Source\\ObstacleProject\\ObstacleProject.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\UnrealEngine\\ObstacleProject\\.vscode\\compileCommands_Default\\ObstacleProject.205.rsp",
+		"directory": "D:\\UE_5.0\\Engine\\Source"
+	}
+]

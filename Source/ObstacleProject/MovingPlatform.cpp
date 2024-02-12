@@ -27,9 +27,12 @@ void AMovingPlatform::BeginPlay()
 	//
 	MyX = MyVector.X;
 
-		//
-	
+	//
 	ChangePos();
+	
+	/*movingPlatformLocation= player->GetActorLocation();
+
+	SetActorLocation(movingPlatformLocation);*/
 
 }
 
@@ -37,6 +40,8 @@ void AMovingPlatform::BeginPlay()
 void AMovingPlatform::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+
+	UpdatePosfowardPlayer();
 
 }
 
@@ -47,4 +52,15 @@ void AMovingPlatform::ChangePos()
 	float auxX= Vector2.X;
 	Vector2.X= Vector2.Y;
 	Vector2.Y= auxX;
+}
+void AMovingPlatform::UpdatePosfowardPlayer(){
+		
+	// get player location
+	FVector CurrentLocation = player->GetActorLocation();
+
+	// calculate new foward position + distance
+	FVector NewLocation = CurrentLocation + player->GetActorForwardVector() * 160;
+
+	// send new position to platform 
+	SetActorLocation(NewLocation);
 }

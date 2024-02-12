@@ -64,7 +64,14 @@ public:
 	UPROPERTY(EditAnywhere)
 	float newAux=0;
 
+	FVector movingPlatformLocation;
+
+	UPROPERTY(EditAnywhere)
+	AActor *player;
+
 	void ChangePos();
+
+	void UpdatePosfowardPlayer();
 };
 
 

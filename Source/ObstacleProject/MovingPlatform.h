@@ -50,10 +50,8 @@ public:
 	UPROPERTY(EditAnywhere)
 	float float1float2 = 0;
 
-	//
-
 	UPROPERTY(EditAnywhere)
-	FVector MyVector = FVector(1, 2, 3);
+	FVector MyVector;
 
 	UPROPERTY(EditAnywhere)
 	float MyX = 0;
@@ -69,9 +67,20 @@ public:
 	UPROPERTY(EditAnywhere)
 	AActor *player;
 
+	UPROPERTY(EditAnywhere)
+	float speedPlat = 1;
+
+	UPROPERTY(EditAnywhere)
+	FVector firstPos = FVector(0, 0, 0);
+
+	UPROPERTY(EditAnywhere)
+	FVector endPos = FVector(0, 0, 0);
+
 	void ChangePos();
 
 	void UpdatePosfowardPlayer();
+
+
 };
 
 

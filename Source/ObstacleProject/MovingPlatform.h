@@ -60,14 +60,14 @@ public:
 	FVector Vector2 = FVector(1, 2, 3);
 
 	UPROPERTY(EditAnywhere)
-	float newAux=0;
+	float newAux = 0;
 
 	FVector movingPlatformLocation;
 
 	UPROPERTY(EditAnywhere)
-	AActor *player;
+	AActor* player;
 
-	UPROPERTY(EditAnywhere)
+	UPROPERTY(EditAnywhere, Category = "Moving Platform")
 	float speedPlat = 1;
 
 	UPROPERTY(EditAnywhere)
@@ -76,10 +76,19 @@ public:
 	UPROPERTY(EditAnywhere)
 	FVector endPos = FVector(0, 0, 0);
 
+	UPROPERTY(EditAnywhere)
+	AActor* pos;
+
+	UPROPERTY(EditAnywhere)
+	float maxDistance=1000;
+
 	void ChangePos();
 
 	void UpdatePosfowardPlayer();
 
+	void MovePlatform(float DeltaTime);
+
+	void MovePlatformPos(float DeltaTime);
 
 };
 

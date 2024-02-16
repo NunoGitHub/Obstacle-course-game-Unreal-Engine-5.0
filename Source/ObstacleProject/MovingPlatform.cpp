@@ -17,7 +17,7 @@ void AMovingPlatform::BeginPlay()
 	Super::BeginPlay();
 
 	firstPos = MyVector = GetActorLocation();
-	endPos = FVector(firstPos.X + 1000, firstPos.Y, firstPos.Z);
+	endPos = pos->GetActorLocation();
 
 	//acess variables that we created in yhe header file
 	MyInt = 9;
@@ -49,6 +49,13 @@ void AMovingPlatform::Tick(float DeltaTime)
 	SetActorLocation(MyVector);*/
 
 	//UpdatePosfowardPlayer();
+	MovePlatform(DeltaTime);
+	//MovePlatformPos(DeltaTime);
+
+}
+
+// distance
+void AMovingPlatform::MovePlatform(float DeltaTime) {
 
 	//Move Platform foward
 	//get current location
@@ -64,18 +71,17 @@ void AMovingPlatform::Tick(float DeltaTime)
 	CurrentLocation += direction * speedPlat * DeltaTime;
 
 	SetActorLocation(CurrentLocation);
-	//ola
 	// Mensagem a ser exibida
 
 	//convert float to string
-	float a = FVector::Dist(CurrentLocation, endPos);
+	float dist = FVector::Dist(CurrentLocation, endPos);
 
 	// get number digits
-	int size = snprintf(NULL, 0, "%f", a);
+	int size = snprintf(NULL, 0, "%f", dist);
 
-	char *disS = (char*) malloc(size+1);
+	char* disS = (char*)malloc(size + 1);
 
-	snprintf(disS, size + 1, "%f", a);
+	snprintf(disS, size + 1, "%f", dist);
 
 	//FString Message(GetName() +"-> " + disS);
 
@@ -85,12 +91,50 @@ void AMovingPlatform::Tick(float DeltaTime)
 	GEngine->AddOnScreenDebugMessage(Key, DisplayTime, Color, GetName() + "-> " + disS);
 	free(disS);
 	//check if the platform has already traveled the maximum distance
-	if (FVector::Dist(CurrentLocation, endPos) <=1.0f) {
+	if (dist <= 1.0f) {
 		FVector Temp = firstPos;
 		firstPos = endPos;
 		endPos = Temp;
 	}
 
+}
+//pos
+void AMovingPlatform::MovePlatformPos(float DeltaTime)
+{
+	//Move Platform foward
+	//get current location
+	FVector CurrentLocation = GetActorLocation();
+
+	CurrentLocation = CurrentLocation + (speedPlat * DeltaTime);
+
+	SetActorLocation(CurrentLocation);
+
+	//get distance
+	float distanceTravelled = FVector::Dist(firstPos, CurrentLocation);
+	// Print or use the distance as needed
+	UE_LOG(LogTemp, Warning, TEXT("Distance Traveled: %f"), distanceTravelled);
+
+
+
+
+	// get number digits
+	int size = snprintf(NULL, 0, "%f", distanceTravelled);
+
+	char* disS = (char*)malloc(size + 1);
+
+	snprintf(disS, size + 1, "%f", distanceTravelled);
+
+	//FString Message(GetName() +"-> " + disS);
+
+	float DisplayTime = 2.0f;
+	FColor Color = FColor::Green;
+	int32 Key = 0;
+	GEngine->AddOnScreenDebugMessage(Key, DisplayTime, Color, GetName() + "-> " + disS);
+	free(disS);
+	//check if the platform has already traveled the maximum distance
+	if (distanceTravelled > maxDistance) {
+		speedPlat = -speedPlat;
+	}
 }
 
 void AMovingPlatform::ChangePos()
